@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1011ecc6-fe97-45cc-8a6c-a15913ac63bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../homework1/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework11new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework12new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework16new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework19new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework5new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework6new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework8new/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework11/homework11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework12/homework12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework13/homework13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/homework8/src/BigIntegerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson10/src/by/zantovich/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson10/src/by/zantovich/MyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson10/src/by/zantovich/TestMyEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Uber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/inheritance/AbstractClothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/inheritance/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/inheritance/Jacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/inheritance/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/inheritance/Tshirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson11/src/by/zantovich/inheritance/UnderWear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson12/src/by/parking/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson12/src/by/parking/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson12/src/by/parking/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson12/src/by/place/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson7/src/by/zantovich/TestParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/child/Baby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/inner/SuperSecretClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/package1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/package2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/package3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/parent/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson8/src/by/parent/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/lesson9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/AutoBoxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/Man/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/Man/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/Man/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/StringBufferExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/lesson9/src/StringRegExp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\java\homework\homework15new\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aE5Hxf1SjHGYH71RuHbNq42g0J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="homework15new" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1011ecc6-fe97-45cc-8a6c-a15913ac63bc" name="Default Changelist" comment="" />
+      <created>1586287828776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586287828776</updated>
+      <workItem from="1586287832033" duration="72000" />
+      <workItem from="1586287939956" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586288113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586288113448" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586288113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586288113448" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586288113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586288113448" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586288113448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586288113448" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586288167150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586288167150" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586288054230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586288054230" />
+  </component>
+</project>
